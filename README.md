@@ -15,6 +15,9 @@ I'm soon to be Full-Stack Web & App Developer. <br>I'm also a UI/UX designer. <b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdaN6&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
+## 🦘 Current mood
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/2PYHsSud2dbTcCEOeo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/beangoods-dog-doxie-harness-2PYHsSud2dbTcCEOeo">via GIPHY</a></p>
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
