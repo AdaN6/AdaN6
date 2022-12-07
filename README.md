@@ -17,6 +17,8 @@ I'm soon to be Full-Stack Web & App Developer. <br>I'm also a UI/UX designer. <b
 
 ## 🦘 Current mood
 <img src="https://media.giphy.com/media/2PYHsSud2dbTcCEOeo/giphy-downsized-large.gif" width="500" height="500" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
