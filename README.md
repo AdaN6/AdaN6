@@ -20,12 +20,6 @@ I'm a Junior Full-Stack Developer.
 <img src="https://media.giphy.com/media/RtKgwIKKc2EjEyGla4/giphy.gif" width="350" height="350" />
 
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=AdaN6&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
