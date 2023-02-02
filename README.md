@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a Junior Full-Stack Developer. 
-<br>I'm also a Junior Frontend Developer. <br> <br>I've been working as a UI/UX Designer for 4 years +. <br>I've recently graduated from a full-stack web & app development bootcamp.<br>I'm currently still polishing my development skill, for instance, React, Typescript, SASS, SQL, Mongo DB and NodeJS.<br> Next I am going to learn next.js <br> I am also looking for a new job as a junior full-stack developer to expand my knowledge and apply the knowledge I have in my future company. <br>I'm obsessed with kangaroo and dachshund. 
+<br>I'm also a Junior Frontend Developer. <br> <br>I've been working as a UI/UX Designer for 4 years +. <br>I've recently graduated from a full-stack web & app development bootcamp.<br>I'm currently still polishing my development skill, for instance, React, Typescript, SASS, SQL, NodeJS as well as handling the database with MongoDB. <br> Next I am going to learn next.js and mySQL. <br> I am also looking for a new job as a junior full-stack developer to expand my knowledge and apply the knowledge I have in my future company. <br>I'm obsessed with kangaroo and dachshund. 
 
 
 ## 🌐 Socials:
