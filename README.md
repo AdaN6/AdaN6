@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm soon to be Full-Stack Web & App Developer. <br>I'm also a UI/UX designer. <br>Currently I am attending coding bootcamp with WBS Coding School.<br>Through this bootcamp, I've learned how to collaborate with other developers in terms of project structuring and bugs fixing.<br>I'm currently still polishing my development skill, for instance, React, CSS, SQL, Mongo DB and NodeJS.<br>I'm obsessed with kangaroo and dachshund.
+I'm a Junior Full-Stack Developer. 
+<br>I'm also a Junior Frontend Developer. <br> <br>I've been working as a UI/UX Designer for 4 years +. <br>Currently I've recently graduated from a full-stack web & app development bootcamp.<br>I'm currently still polishing my development skill, for instance, React, Typescript, SASS, SQL, Mongo DB and NodeJS.<br> Next I am going to learn next.js <br> I am also looking for a new job as a junior full-stack developer to expand my knowledge and apply the knowledge I have in my future company. <br>I'm obsessed with kangaroo and dachshund. 
 
 
 ## 🌐 Socials:
