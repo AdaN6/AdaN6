@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a Junior Full-Stack Developer and Junior Frontend Developer. <br> <br>I've been working as a UI/UX Designer for 4 years +. <br>I've recently graduated from a full-stack web & app development bootcamp.<br>I'm currently still polishing my development skill, for instance, React, Typescript, SASS, SQL, NodeJS as well as handling the database with MongoDB. <br> Next I am going to learn next.js and mySQL. <br> 
-I am currently employed as a Junior Frontend Developer at SECJUR, utilising Vue.js, TypeScript, and Pinia. <br>I'm obsessed with kangaroo and dachshund. 
+I am currently employed as a Junior Frontend Developer at SECJUR, utilising Vue.js, TypeScript, and Pinia. <br>I'm obsessed with kangaroo and dachshund. <br> You are more than welcome to have a look at <a href="https://adaneo6.com/">my website </a>.
 
 
 ## 🌐 Socials:
